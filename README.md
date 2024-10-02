@@ -1,6 +1,7 @@
 ## Introduction
 
 This project involves fine-tuning a VGG16 model using Keras to detect skin diseases such as nevus, melanoma, and seborrheic keratosis.
+For dataset https://www.kaggle.com/paoloripamonti/derma-diseases
 
 ## Libraries Used
 
